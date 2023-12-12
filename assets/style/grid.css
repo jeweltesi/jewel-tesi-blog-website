@@ -17,6 +17,7 @@
 }
 
 .container .row .col-1 {
+    width: calc(1 / 12 * 100% - 1rem);
 }
 
 .container .row .col-2 {
