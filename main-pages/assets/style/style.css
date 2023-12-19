@@ -252,7 +252,6 @@ background-color:#473f33;
     display: flex; 
     margin:0;
     padding: 0;
-    margin-left: 42.5%;
 }
 .no-space1, .no-space1 .row, .no-space1 .row [class*="col-"] {
     margin: 0;
