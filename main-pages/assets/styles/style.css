@@ -253,6 +253,15 @@ background-color:#473f33;
     padding: 0;
     margin-left: 42.5%;
 }
+.no-space1, .no-space1 .row, .no-space1 .row [class*="col-"] {
+    margin: 0;
+    padding: 0;
+}
+.no-space1 .row .col-8{
+    width: calc(8 / 12 * 100%);
+}
+
+/* css for text*/
 .title-text{
     font-family: 'Times New Roman', Times, serif;
     font-size: 100px;
@@ -261,10 +270,9 @@ background-color:#473f33;
     padding: 0;
     margin: 0;
 }
-.no-space1, .no-space1 .row, .no-space1 .row [class*="col-"] {
-    margin: 0;
-    padding: 0;
-}
-.no-space1 .row .col-8{
-    width: calc(8 / 12 * 100%);
+.title1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: block;
+
 }
