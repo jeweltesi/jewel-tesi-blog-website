@@ -201,20 +201,21 @@ color: #1E1E1E;
     padding: .5em;
 }
 .contact-form button.clear{
-background-color:#665B4A;
+background-color:#544b3d;
 
 }
 
 .contact-form button.clear:hover{
-background-color:#473f33;
+background-color:#383228;
 
 }
 .contact-details hr{
     border: none;
-    border-top: 1px solid #473f33 ;
+    border-top: 1px solid  #FBF3EA;
 }
 .contact-details h3{
     margin-top: 1em;
+    color:  #FBF3EA;
 }
 .contact-details p{
     margin: .5em;
@@ -227,10 +228,10 @@ background-color:#473f33;
     padding-top: .5rem;
 }
 .contact-text{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lumanosimo', cursive;
     font-size: 200px;
     display: block;
-    color: #1E1E1E;
+    color:  #FBF3EA;
     padding: 0;
     margin: 0;
 }
