@@ -279,3 +279,11 @@ background-color:#383228;
     padding: .25rem;
 
 }
+.title-text1{
+    font-family: 'Lumanosimo', cursive;
+    font-size: 50px;
+    display: block;
+    color: #FBF3EA;
+    padding: 0;
+    margin: 0;  
+}
